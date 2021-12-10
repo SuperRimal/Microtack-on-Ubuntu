@@ -14,7 +14,7 @@ When installtalation is completed, below dialog will appear
 microstack (beta) ussuri from Cannonical installed
 
 ## Intialization of Mircostack
-sudo microstack init --auto -control
+sudo microstack init --auto --control
 
 ## Accessing Openstack
 sudo snap get microstack config.credentials.keystone-password
