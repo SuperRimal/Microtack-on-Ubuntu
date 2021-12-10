@@ -28,3 +28,7 @@ OAEHxLgCBz7Wz4usvolAAt61TrDUz6zz'
 sudo snap disable microstack
 
 sudo snap enable microstack
+
+# You can access Openstack dashboard on
+
+https://10.20.20.1
