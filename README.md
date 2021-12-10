@@ -3,8 +3,10 @@ Installing and Running Virtual Machine on Microstack
 
 # Requirements:
 Ubuntu 20.04 or 21.04 LTS 
+
 6 processors, may also work in 4
-More than 4GB of RAM (In my case is used 5.3GB)
+
+More than 4GB of RAM (In my case I used 5.3GB)
 
 ## Installing Mictostack
 sudo snap install microstack --devmode --beta
