@@ -10,6 +10,7 @@ More than 4GB of RAM (In my case is used 5.3GB)
 sudo snap install microstack --devmode --beta
 
 When installtalation is completed, below dialog will appear
+
 microstack (beta) ussuri from Cannonical installed
 
 ## Intialization of Mircostack
