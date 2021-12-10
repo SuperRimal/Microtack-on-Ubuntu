@@ -21,6 +21,8 @@ sudo microstack init --auto --control  (it may take some time)
 ## Accessing Openstack
 sudo snap get microstack config.credentials.keystone-password
 
+Username is Admin
+
 (Password in My case)
 OAEHxLgCBz7Wz4usvolAAt61TrDUz6zz'
 
