@@ -1,4 +1,4 @@
-# Microtack-on-Ubuntu
+# Microstack-on-Ubuntu
 Installing and Running Virtual Machine on Microstack
 
 # Requirements:
